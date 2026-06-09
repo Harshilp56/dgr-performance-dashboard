@@ -1,0 +1,4 @@
+dash==4.2.0
+plotly==6.8.0
+openpyxl==3.1.5
+gunicorn==21.2.0
